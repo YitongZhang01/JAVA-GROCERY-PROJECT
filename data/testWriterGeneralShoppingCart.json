@@ -1,0 +1,16 @@
+{
+    "total": 12.450000000000001,
+    "name": "erica",
+    "items": [
+        {
+            "quantity": 2,
+            "price": 2.99,
+            "name": "apple"
+        },
+        {
+            "quantity": 3,
+            "price": 1.39,
+            "name": "banana"
+        }
+    ]
+}
